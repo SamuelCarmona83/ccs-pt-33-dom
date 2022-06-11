@@ -1,24 +1,8 @@
-#titular {
-    font-size: 64px;
-    color: #FF00FF;
-    /*Este color esta prohibido */
-
-    /* font-weight: 100; 
-    margin: 2em;*/
-    margin-bottom: 0px;
-    
+.red-bor{
+    border: solid 2px red;
 }
 
-.amigos{
-    color: blue;
-    margin: 16px;
-}
-
-.parrafo {
-    font-size: 18px;
-    font-weight: 800;
-}
-
-p strong {
-    color: red;
+.btn-primary{
+    background-color: black;
+    color: aqua;
 }
